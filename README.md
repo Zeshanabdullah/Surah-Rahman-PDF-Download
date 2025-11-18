@@ -297,7 +297,7 @@ To contribute:
 # 📩 **Contact Us**
 If you want to reach us, suggest improvements, or report an issue:
 
-👉 **https://surahrahmanonline.com/contact**
+👉 **[https://surahrahmanonline.com/contact](https://surahrahmanonline.com/about/)**
 
 We reply quickly and always appreciate new ideas.
 
