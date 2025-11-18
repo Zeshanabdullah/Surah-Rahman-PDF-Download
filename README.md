@@ -1,7 +1,7 @@
 # **Surah Rahman PDF – Read, Listen & Download Free (55th Surah) 📖✨**
 
 Welcome to the **Surah Rahman PDF** repository.  
-This repo is part of **SurahRahmanOnline.com**, where we provide a complete and clean way to read, listen, watch, and download Surah Rahman for FREE — without ads, without limits, and without confusing pages.
+This repo is part of **SurahRahmanOnline.com**, where we provide a complete and clean way to read, listen, watch, and download Surah Rahman for FREE without ads, without limits, and without confusing pages.
 
 This GitHub repo makes everything even simpler.  
 You can download the **PDF**, listen to the **audio**, watch the **video recitation**, or read the Surah online anytime.  
