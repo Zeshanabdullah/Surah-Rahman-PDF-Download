@@ -39,8 +39,7 @@ Audio features:
 - Free to use  
 - No ads interrupting playback  
 
-👉 **[Click here to listen to Surah Rahman](#)**  
-*(Add MP3 link here)*
+👉 **[Click here to listen to Surah Rahman](https://surahrahmanonline.com/)**  
 
 ---
 
